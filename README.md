@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pratik Singh
-- A Pre Final year at IIT KGP
+- A Final year at IIT KGP
 - 👀 I’m interested in Computer Vision and NLP
 - 📫 Reach me pratik.singh.801.ps@gmail.com
 
